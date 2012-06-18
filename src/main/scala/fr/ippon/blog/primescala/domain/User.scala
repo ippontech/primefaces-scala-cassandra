@@ -1,4 +1,4 @@
-package scalaprime.domain
+package fr.ippon.blog.primescala.domain
 
 import reflect.BeanProperty
 
